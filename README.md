@@ -45,7 +45,7 @@ Currently, there is no ETA for release.
 
 ---
 
-## Installation
+## 📥 Installation
 1. Download.
 2. Extract.
 3. Run
