@@ -1,7 +1,7 @@
 # DoopFinder
 Free Duplicated File Finder Tool to help free up some space from your disk/drive.
 
-<img width="1280" height="640" alt="DoopFinderBanner" src="https://github.com/user-attachments/assets/65bd3e37-25e7-4394-8db2-bc3bcdfe97b6" />
+<img width="1280" height="640" alt="DoopFinderBanner" src="https://github.com/user-attachments/assets/7c95a95e-b3fe-4b88-b579-9c94b3658022" />
 
 ---
 
