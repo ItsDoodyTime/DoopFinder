@@ -91,7 +91,7 @@ You might ask why make this when there are thousand others just like it?...<br>
 ## 📥 Installation
 1. Download.
 2. Extract.
-3. Run
+3. Run `DoopFinder.exe`.
    
 ---
 
